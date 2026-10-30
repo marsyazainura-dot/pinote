@@ -1,16 +1,22 @@
-# Pinote – Tugas Individual 02 (UI Flutter)
+# Pinote
 
-Aplikasi catatan harian sederhana, 5 halaman (UI saja):
-Splash → Login Statis → Beranda → Tambah Catatan → Detail Catatan.
+Desain UI aplikasi catatan harian sederhana (Tugas Individual 02) dengan Flutter.
+
+## Halaman
+1. Splash Screen
+2. Login Statis
+3. Beranda
+4. Tambah Catatan
+5. Detail Catatan
+
+## Tangkapan layar
+![Splash](assets/images/splash.png)
+![Login](assets/images/login.png)
+![Beranda](assets/images/beranda.png)
+![Tambah Catatan](assets/images/tambah.png)
+![Detail Catatan](assets/images/detail.png)
 
 ## Cara menjalankan
-1. Pasang Flutter SDK (>= 3.x).
-2. Di folder ini jalankan:
-   flutter create .          # membuat folder android/ios/web
-   flutter pub get
-   flutter run
-   (`flutter create .` tidak menimpa folder lib/ dan pubspec.yaml yang sudah ada)
-
-## Struktur
-lib/main.dart, lib/theme.dart, lib/models/note.dart,
-lib/widgets/pinote_logo.dart, lib/screens/*.dart
+flutter create .
+flutter pub get
+flutter run

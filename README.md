@@ -14,14 +14,6 @@ Aplikasi ini hanya UI: tidak ada database dan tidak ada autentikasi sungguhan.
 4. **Tambah Catatan** - form judul, isi, kategori, warna, dan prioritas.
 5. **Detail Catatan** - menampilkan isi catatan lengkap.
 
-| Splash | Login | Beranda |
-|---|---|---|
-| ![Splash](assets/images/splash.png) | ![Login](assets/images/login.png) | ![Beranda](assets/images/beranda.png) |
-
-| Tambah Catatan | Detail Catatan |
-|---|---|
-| ![Tambah Catatan](assets/images/tambah.png) | ![Detail Catatan](assets/images/detail.png) |
-
 ## Akun demo
 
 - Email: `marsya@gmail.com`
@@ -41,7 +33,6 @@ lib/
     home_screen.dart
     add_note_screen.dart
     note_detail_screen.dart
-assets/images/   (tangkapan layar)
 ```
 
 ## Cara menjalankan

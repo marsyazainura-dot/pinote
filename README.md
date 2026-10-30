@@ -14,8 +14,6 @@ Aplikasi ini hanya UI: tidak ada database dan tidak ada autentikasi sungguhan.
 4. **Tambah Catatan** - form judul, isi, kategori, warna, dan prioritas.
 5. **Detail Catatan** - menampilkan isi catatan lengkap.
 
-## Tangkapan layar
-
 | Splash | Login | Beranda |
 |---|---|---|
 | ![Splash](assets/images/splash.png) | ![Login](assets/images/login.png) | ![Beranda](assets/images/beranda.png) |
